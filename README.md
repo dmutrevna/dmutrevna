@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Troian Yuliia</h1>
 <h3 align="center">Frontend developer from Ukraine</h3>
-<img align="right" alt="Coding women" width "200" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="right" alt="Coding women" width ="200" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 - 📫 How to reach me **dmutrevna@ukr.net**
 
