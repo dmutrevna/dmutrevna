@@ -3,6 +3,7 @@
 <img align="right" alt="Coding women" width ="300" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 - 📫 How to reach me **dmutrevna@ukr.net**
+- 📄 Know about my experiences [https://dmutrevna.github.io/resume/](https://dmutrevna.github.io/resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
